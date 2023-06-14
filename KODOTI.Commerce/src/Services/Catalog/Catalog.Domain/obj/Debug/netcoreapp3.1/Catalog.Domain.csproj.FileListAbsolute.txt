@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.deps.json
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfo.cs
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb

@@ -1,0 +1,17 @@
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.deps.json
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Common.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Common.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.AssemblyInfo.cs
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.csproj.CopyComplete
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\src\Services\Catalog\Catalog.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Services.EventHandlers.pdb

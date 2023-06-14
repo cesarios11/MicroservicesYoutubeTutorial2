@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb

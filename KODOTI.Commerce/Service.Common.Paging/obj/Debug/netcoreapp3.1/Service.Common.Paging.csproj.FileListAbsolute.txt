@@ -1,0 +1,13 @@
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+C:\Users\Administrador\Documents\CESARIOS\MICROSERVICIOS\KODOTI.Commerce\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb
